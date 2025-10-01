@@ -1,0 +1,7 @@
+{
+  "name": "updateQueryStatus",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

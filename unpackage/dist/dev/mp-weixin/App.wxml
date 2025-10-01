@@ -1,0 +1,1 @@
+<view><slot/><view class="global-footer"><text wx:for="{{a}}" wx:for-item="w" wx:key="b">{{w.a}}</text></view></view>

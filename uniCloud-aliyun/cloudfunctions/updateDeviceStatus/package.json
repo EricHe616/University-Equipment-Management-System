@@ -1,0 +1,7 @@
+{
+  "name": "updateDeviceStatus",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "高校实验设备管理信息系统",
+  "usingComponents": {
+    "footer": "../../components/Footer"
+  }
+}

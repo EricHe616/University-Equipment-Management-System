@@ -1,0 +1,1 @@
+<view class="container"><view class="header"><text bindtap="{{a}}">设备信息</text><text bindtap="{{b}}">设备状态</text><text bindtap="{{c}}">数据查询</text><text bindtap="{{d}}">个人信息</text></view></view>

@@ -1,0 +1,7 @@
+{
+  "name": "updateStudentProfile",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

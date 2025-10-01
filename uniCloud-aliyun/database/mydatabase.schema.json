@@ -1,0 +1,32 @@
+{
+  "collName": "mydatabase",
+  "permission": {
+    "read": true,
+    "create": true,
+    "update": true,
+    "delete": true
+  },
+  "rules": {
+    "username": {
+      "type": "string"
+    },
+    "password": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "className": {
+      "type": "string"
+    },
+    "studentId": {
+      "type": "string"
+    },
+    "createdAt": {
+      "type": "timestamp"
+    },
+	"myname": {
+	  "type": "string"
+	}
+  }
+}

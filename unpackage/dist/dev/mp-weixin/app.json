@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shangchuan/shangchuan",
+    "pages/admin/admin",
+    "pages/student/student",
+    "pages/teacher/teacher",
+    "pages/register/register",
+    "pages/device/device",
+    "pages/devicemanage/devicemanage",
+    "pages/query/query",
+    "pages/profile/profile",
+    "pages/deviceinfo/deviceinfo",
+    "pages/xinxi/xinxi",
+    "pages/device_detail/device_detail",
+    "pages/deviceDetail/deviceDetail",
+    "pages/examine/examine"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "高校实验设备管理信息系统软件设计",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,31 @@
+
+.container.data-v-64f320dd {
+  padding: 20rpx;
+}
+.form-group.data-v-64f320dd {
+  margin-bottom: 20rpx;
+}
+.label.data-v-64f320dd {
+  font-weight: bold;
+  margin-bottom: 8rpx;
+  display: block;
+}
+.input.data-v-64f320dd, .textarea.data-v-64f320dd {
+  border: 1px solid #ccc;
+  border-radius: 6rpx;
+  padding: 10rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+.textarea.data-v-64f320dd {
+  height: 100rpx;
+  resize: none;
+}
+button.data-v-64f320dd {
+  background-color: #007AFF;
+  color: white;
+  padding: 15rpx 0;
+  border-radius: 8rpx;
+  text-align: center;
+  font-weight: bold;
+}

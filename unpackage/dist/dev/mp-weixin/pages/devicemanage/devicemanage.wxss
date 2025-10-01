@@ -1,0 +1,12 @@
+
+.container.data-v-1029d581 {
+  padding: 30rpx;
+}
+.form-item.data-v-1029d581 {
+  margin-bottom: 20rpx;
+}
+.picker.data-v-1029d581 {
+  padding: 10rpx;
+  background: #efefef;
+  border-radius: 8rpx;
+}

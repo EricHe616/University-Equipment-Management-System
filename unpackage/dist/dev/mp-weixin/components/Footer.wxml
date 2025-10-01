@@ -1,0 +1,1 @@
+<view class="footer data-v-3506faf6"><text wx:for="{{a}}" wx:for-item="word" wx:key="b" class="data-v-3506faf6">{{word.a}}</text></view>

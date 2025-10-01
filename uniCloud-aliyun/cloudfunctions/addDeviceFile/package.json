@@ -1,0 +1,7 @@
+{
+  "name": "addDeviceFile",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

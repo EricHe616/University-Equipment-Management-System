@@ -1,0 +1,19 @@
+
+.container.data-v-dd383ca2 {
+  padding: 20rpx;
+}
+.user-card.data-v-dd383ca2 {
+  background: #fff;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  border-radius: 10rpx;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.user-info text.data-v-dd383ca2 {
+  display: block;
+  margin-bottom: 10rpx;
+}
+.actions.data-v-dd383ca2 {
+  display: flex;
+  justify-content: space-between;
+}
